@@ -1,4 +1,7 @@
+# Forked from [codechips](https://github.com/codechips/svelte-snowpack-testdrive) to make it a [CSA](https://www.snowpack.dev/#create-snowpack-app-(csa)) template
+
 # svelte-snowpack-testdrive
+
 
 This is the example code for the article I wrote on [Snowpack](https://www.snowpack.dev/) v2 and [Svelte](https://svelte.dev/).
 
